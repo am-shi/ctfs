@@ -1,4 +1,3 @@
-# ctfs
 
 ## Introduction
 
