@@ -23,7 +23,7 @@ File: [Challenge](https://artifacts.picoctf.net/c_rhea/11/challenge.zip)
 ```bash
 $ ls -R | while read filename; do ./decrypt.sh ./files/$filename 2>/dev/null; done | grep picoCTF
 ```
-After running the mmls command:
+Explanation:
 
 ``` 
 - The ls -R command lists all files and directories recursively.
