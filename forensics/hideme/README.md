@@ -30,7 +30,7 @@ then:
 
 ##end
 
-##steg🫣
+##stego🫣
    
 
 
