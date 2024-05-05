@@ -25,6 +25,31 @@ Decode it on cyberchef(ROT13 Encoding):
 ```
 TFTP DOESNT ENCRYPTOURTRAFFICSOWEMUSTDISGUISEOURFLAGTRANSFER.FIGUREOUTAWAYTOHIDETHEFLAGANDIWILLCHECKBACKFORTHEPLAN
 ```
+It mentions something about a plan so look at the 'plan' file that we got:
+![alt text](image-5.png)
+
+Looks like it also needs to be decoded:
+
+![alt text](image-7.png) 
+
+```
+IUSEDTHEPROGRAMANDHIDITWITH-DUEDILIGENCE.CHECKOUTTHEPHOTOS
+
+
+```
+Ok, so lets check out our program.deb file since it's mentioning it:
+
+They're mentioning steghide-let's use it to extract the flag and since we need a password it let's try using "DUEDILIGENCE" as our passphrase:
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+![alt text](image-10.png) 
+
+
+
+
 
 ## Flag
 
