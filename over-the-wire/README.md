@@ -29,4 +29,8 @@ $ cat readme
 $ ls
 $ ls -al
 $ cat .hidden
-```
+``` 
+
+## Level 3 - 4
+
+![alt text](image-3.png)
