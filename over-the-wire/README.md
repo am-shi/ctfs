@@ -75,3 +75,34 @@ This command filters the output of the du command to only include lines containi
 It's used to identify files that are exactly 1033 bytes in size.
 
 ```
+
+## Level 5 - 6
+
+```
+Level Goal
+
+The password for the next level is stored somewhere on the server and has all of the following properties:
+
+    owned by user bandit7
+    owned by group bandit6
+    33 bytes in size
+
+```
+
+![alt text](image-5.png)
+
+```bash
+$ find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
+```
+
+Explanation of the command:
+```
+find /: Starts the search from the root directory.
+-type f: Specifies that we're looking for files.
+-user bandit7: Filters files owned by the user bandit7.
+-group bandit6: Filters files owned by the group bandit6.
+-size 33c: Filters files that are exactly 33 bytes in size.
+
+2>/dev/null: Redirects error messages (such as permission denied) to /dev/null to suppress them.
+```
+
