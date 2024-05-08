@@ -1,9 +1,20 @@
 ## Over the Wire
 
+The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+
 ![alt text](image.png)
 
+## 0rder of the Games
 
-
+```
+(1)Bandit
+(2)Leviathan or Natas or Krypton
+(3)Narnia
+(4)Behemoth
+(5)Utumno
+(6)Maze
+```
+## (1) Bandit
 
 ## Level 0
 
@@ -105,4 +116,8 @@ find /: Starts the search from the root directory.
 
 2>/dev/null: Redirects error messages (such as permission denied) to /dev/null to suppress them.
 ```
+
+
+## Level 6 - 7
+
 
