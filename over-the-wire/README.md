@@ -20,4 +20,13 @@ $ cat readme
 
 
 ## Level 1 - 2
-![alt text](image-2.png)
+![alt text](image-2.png) 
+
+
+## Level 2 - 3
+
+```bash
+$ ls
+$ ls -al
+$ cat .hidden
+```
