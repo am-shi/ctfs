@@ -51,7 +51,7 @@ not executable
 
 ![alt text](image-4.png)
 
-
+The du command is used to estimate file and directory space usage.
 
 
 ```
