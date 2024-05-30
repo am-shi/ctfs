@@ -21,7 +21,11 @@ Looks like it isn't even a PDF file, it's a shell archive.
 ```bash
 $ sh Flag.pdf
 ```
-The shell script seems to extract the contents of the archive, as indicated by the messages "x - extracting flag (text)"
+This command executes the shell script contained within the "Flag.pdf" file.The shell script seems to extract the contents of the archive, as indicated by the messages "x - extracting flag (text)".
+
+
+
+
 
 ## Flag
 
