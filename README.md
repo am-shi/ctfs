@@ -5,6 +5,22 @@ They are exercises in which participants attempt to find text strings, called "f
 
 ## Topics
 
+1. __Forensics__
+
+2. __OSINT__ ( coming soon... )
 
 
+## Example Walkthrough
+
+This is an example of a CTF challenge I solved:
+
+![Walkthrough example](forensics/ex-walkthrough.png)
+
+## Resources
+
+1.  [TryHackMe](https://tryhackme.com/login)
+
+2.  [HackTheBox](https://www.hackthebox.com/)
+
+3.  [PicoCTF](https://www.picoctf.org/)
 
