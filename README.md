@@ -12,7 +12,7 @@ They are exercises in which participants attempt to find text strings, called "f
 
 ## Example Walkthrough
 
-This is an example of a CTF challenge I solved:
+This is an example snippet of a CTF challenge I solved:
 
 ![Walkthrough example](forensics/ex-walkthrough.png)
 
